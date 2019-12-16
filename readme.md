@@ -9,9 +9,9 @@ This is a proposal to utilize the space once occupied by the Artist's Block cafe
 I had the pleasure of visiting [The Front Porch](https://www.frontporchslo.org/), a coffee shop at Cal Poly in California where everything is free. It was amazing to see the community that flourished within its walls, and have been thinking about how I could attempt something similar here in Logan. It seems like the Artist's Block would be an ideal spot, given that it was already a cafe in its past life.
 
 ## Goals:
-* Create an inclusive space for anyone to join
-* Provide a free-use community kitchen
-* Provide free coffee
+* Create an inclusive and welcome environment for anyone to join
+* Provide a free-use community kitchen (maintained by volunteers)
+* Provide free coffee, tea, and water
 * Have ample seating and tables for working on homework and having conversation
 
 ## Business Model
