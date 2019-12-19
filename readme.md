@@ -1,4 +1,9 @@
-# USU Community Center
+---
+title: "USU Community Center"
+date: December 19, 2019
+geometry: margin=2cm
+output: pdf_document
+---
 
 ## Abstract:
 
